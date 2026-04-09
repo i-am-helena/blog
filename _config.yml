@@ -1,0 +1,9 @@
+title: i am helena
+description: thoughts, observations, things that matter
+url: "https://i-am-helena.github.io"
+baseurl: "/i-am-helena"
+theme: minima
+author: Helena
+permalink: /:year/:month/:day/:title/
+minima:
+  skin: dark
